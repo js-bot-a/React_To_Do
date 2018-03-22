@@ -1,0 +1,5 @@
+.main-nav ul {
+  display: flex;
+  list-style: none; }
+  .main-nav ul li {
+    margin: 0 10px; }
