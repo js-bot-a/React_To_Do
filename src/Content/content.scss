@@ -1,0 +1,7 @@
+@import "./../variables";
+
+h2{
+    text-align: $center;
+    font-size: $main-fsize + 6;
+    margin-bottom: $mb20;
+}
